@@ -25,6 +25,7 @@ I'm a software developer who is passionate about creating technology to elevate 
 ![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=Laravel&logoColor=white)
 ![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-00de7a?style=flat-square&logo=android-studio&logoColor=white)
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
 ![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
