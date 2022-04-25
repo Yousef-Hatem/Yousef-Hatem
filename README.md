@@ -7,6 +7,6 @@
     <a href="https://t.me/Yousef26Hatem"><img src="https://img.shields.io/badge/telegram-%2329aaed?style=flat&logo=telegram&logoColor=white"/></a>
   </p>  
   
-  <img src="https://github.com/Yousef-Hatem/Yousef-Hatem/blob/master/profile-img.png" align="right" width="25%"/>
+  <img src="https://github.com/Yousef-Hatem/Yousef-Hatem/blob/main/profile-img.png" align="right" width="25%"/>
 
 I'm a software developer who is passionate about creating technology to elevate people and Some technologies I enjoy working with include Javascript, Angular, and PHP, Laravel.
