@@ -10,3 +10,8 @@
   <img src="https://github.com/Yousef-Hatem/Yousef-Hatem/blob/main/profile-img.png" align="right" width="25%"/>
 
 I'm a software developer who is passionate about creating technology to elevate people and Some technologies I enjoy working with include Javascript, Angular, and PHP, Laravel.
+
+- 🔍 I have a package on npm [@validation-all](https://www.npmjs.com/package/validation-all)
+- 🔭 I'm a software developer [@AbuDiyab](https://abudiyab-soft.com)
+- 🤖 I programmed a trading bots (Automated Trading)
+- 💬 Ask me about **Frontend and Backand**
