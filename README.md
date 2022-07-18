@@ -34,6 +34,7 @@ I'm a software developer who is passionate about creating technology to elevate 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-8512fb?style=flat-square&logo=Bootstrap&logoColor=white)
 
 ![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
 
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
