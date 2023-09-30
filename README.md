@@ -39,9 +39,10 @@ I'm a software developer who is passionate about creating technology to elevate 
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![mySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mySql&logoColor=fff)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![mongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB)&nbsp;
-![mongoose](https://img.shields.io/badge/-Mongoose%20ODM-05122A?style=flat&logo=mongoose)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB)&nbsp;
+![Mongoose](https://img.shields.io/badge/-Mongoose%20ODM-05122A?style=flat&logo=mongoose)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?logo=redis)&nbsp;
 
 ###### Software Development Tools :
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
