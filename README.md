@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/yousefhatem"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://x.com/Yousef26Hatem"><img src="https://img.shields.io/badge/x.com-05122A?style=flat&logo=x"/></a>
     <a href="https://wakatime.com/@YousefHatem"><img src="https://wakatime.com/badge/user/0a45cedb-bdae-41f3-8bca-5101bf18eeab.svg" alt="Total time coded since Aug 25 2022"/></a>
-    <a href="https://t.me/Yousef26Hatem"><img src="https://img.shields.io/badge/telegram-%2329aaed?style=flat&logo=telegram&logoColor=white"/></a>
+    <a href="https://t.me/YouHatem"><img src="https://img.shields.io/badge/telegram-%2329aaed?style=flat&logo=telegram&logoColor=white"/></a>
     <a href="https://www.facebook.com/YousefHatemAhmed"><img src="https://img.shields.io/badge/facebook-%230d8cf0?style=flat&logo=facebook&logoColor=white"/></a>
 </p>  
   
