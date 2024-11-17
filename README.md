@@ -45,7 +45,7 @@ I'm a Software Engineer who is passionate about creating technology to elevate p
 ![Redis](https://img.shields.io/badge/-Redis-05122A?logo=redis)&nbsp;
 
 ###### Software Development Tools :
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=vsc)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
